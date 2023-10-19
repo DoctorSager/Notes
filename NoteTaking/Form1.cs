@@ -36,6 +36,7 @@ namespace NoteTaking
             txtTitle.Clear();
             txtMessage.Clear();
 
+
         }
 
         private void bttnSave_Click(object sender, EventArgs e)
